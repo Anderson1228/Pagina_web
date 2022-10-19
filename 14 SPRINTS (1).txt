@@ -3,6 +3,9 @@ JORGE GOMEZ
 ANDRES SERRANO
 ANDERSON LARRAHONDO
 
+Link Del Jira donde se evidencia el proceso de los sprints con su respectiva documentacion
+https://jegcj.atlassian.net/jira/software/projects/SINAG/boards/2
+
 1 https://teams.microsoft.com/l/meetup-join/19%3ArsvXu8Tzhg4SciizKEsnG75pTSC8RYt2ODZ73Vanm_U1%40thread.tacv2/1665977189007?context=%7B%22Tid%22%3A%2207da67a0-1f43-4e8c-977f-5f88b6470ee6%22%2C%22Oid%22%3A%225f699c5f-f91d-410d-b80d-767b7817e0aa%22%7D
 
 2 https://mailunicundiedu.sharepoint.com/sites/ProyectoIngenieradeSoftware/_layouts/15/stream.aspx?id=%2Fsites%2FProyectoIngenieradeSoftware%2FShared%20Documents%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20%27Proyecto%20Ingenier%C3%ADa%20de%20Software%27%2D20221003%5F120627%2DMeeting%20Recording%2Emp4
